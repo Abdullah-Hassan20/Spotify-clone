@@ -28,10 +28,13 @@ A front-end clone of the Spotify web player, built with **HTML**, **CSS**, and *
 1. **Clone the repo**
    ```bash
    git clone https://github.com/Abdullah-Hassan20/Spotify-clone.git
+   
    run index.html direct because it is pure static front-end website
 
 
 ## ✍️ Author
 **Abdullah Hassan**
+
 📧 abdullahrouf267@gmail.com
+
 🔗 GitHub
